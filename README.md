@@ -1,327 +1,411 @@
 #EXTM3U
-#EXTINF:-1, ® 13 Ulica FHD
-http://esotheric.one:8900/mena/mena/54667
-#EXTINF:-1, ® 4Fun Dance
-http://esotheric.one:8900/mena/mena/54668
-#EXTINF:-1, ® 4Fun TV
-http://esotheric.one:8900/mena/mena/54669
-#EXTINF:-1, ® Active Family
-http://esotheric.one:8900/mena/mena/54670
-#EXTINF:-1, ® Adventure FHD
-http://esotheric.one:8900/mena/mena/54671
-#EXTINF:-1, ® Ale Kino FHD
-http://esotheric.one:8900/mena/mena/54672
-#EXTINF:-1, ® AMC FHD
-http://esotheric.one:8900/mena/mena/54673
-#EXTINF:-1, ® Animal Planet FHD
-http://esotheric.one:8900/mena/mena/54674
-#EXTINF:-1, ® ATM Rozrywka TV
-http://esotheric.one:8900/mena/mena/54675
-#EXTINF:-1, ® AXN Black
-http://esotheric.one:8900/mena/mena/54676
-#EXTINF:-1, ® AXN HD
-http://esotheric.one:8900/mena/mena/54677
-#EXTINF:-1, ® AXN Spin FHD
-http://esotheric.one:8900/mena/mena/54678
-#EXTINF:-1, ® AXN White
-http://esotheric.one:8900/mena/mena/54679
-#EXTINF:-1, ® Baby TV [Multi-Audio]
-http://esotheric.one:8900/mena/mena/54680
-#EXTINF:-1, ® BBC Earth FHD
-http://esotheric.one:8900/mena/mena/54681
-#EXTINF:-1, ® BBC First FHD
-http://esotheric.one:8900/mena/mena/54682
-#EXTINF:-1, ® Boomerang FHD
-http://esotheric.one:8900/mena/mena/54683
-#EXTINF:-1, ® Canal 1 FHD
-http://esotheric.one:8900/mena/mena/54684
-#EXTINF:-1, ® Canal Seriale FHD
-http://esotheric.one:8900/mena/mena/54685
-#EXTINF:-1, ® Canal Sport 2 FHD
-http://esotheric.one:8900/mena/mena/54686
-#EXTINF:-1, ® Canal Sport FHD
-http://esotheric.one:8900/mena/mena/54687
-#EXTINF:-1, ® Canal+ Discovery FHD
-http://esotheric.one:8900/mena/mena/54688
-#EXTINF:-1, ® Canal+ Discovery HD
-http://esotheric.one:8900/mena/mena/54689
-#EXTINF:-1, ® Canal+ Family FHD
-http://esotheric.one:8900/mena/mena/54690
-#EXTINF:-1, ® Canal+ FHD
-http://esotheric.one:8900/mena/mena/54691
-#EXTINF:-1, ® Canal+ Film FHD
-http://esotheric.one:8900/mena/mena/54692
-#EXTINF:-1, ® Canal+ Now HD
-http://esotheric.one:8900/mena/mena/54693
-#EXTINF:-1, ® Canal+ Seriale FHD
-http://esotheric.one:8900/mena/mena/54694
-#EXTINF:-1, ® Canal+ Sport 3 FHD
-http://esotheric.one:8900/mena/mena/54695
-#EXTINF:-1, ® Canal+ Sport 4 FHD
-http://esotheric.one:8900/mena/mena/54696
-#EXTINF:-1, ® Cartoon Network FHD
-http://esotheric.one:8900/mena/mena/54697
-#EXTINF:-1, ® CBS Action
-http://esotheric.one:8900/mena/mena/54698
-#EXTINF:-1, ® CBS Europa FHD
-http://esotheric.one:8900/mena/mena/54699
-#EXTINF:-1, ® CBS Reality FHD
-http://esotheric.one:8900/mena/mena/54700
-#EXTINF:-1, ® Chillizet
-http://esotheric.one:8900/mena/mena/54701
-#EXTINF:-1, ® Cinemax 1 FHD
-http://esotheric.one:8900/mena/mena/54702
-#EXTINF:-1, ® Cinemax 2 FHD
-http://esotheric.one:8900/mena/mena/54703
-#EXTINF:-1, ® Comedy Central
-http://esotheric.one:8900/mena/mena/54704
-#EXTINF:-1, ® Comedy Central Extra HD
-http://esotheric.one:8900/mena/mena/54705
-#EXTINF:-1, ® Da Vinci
-http://esotheric.one:8900/mena/mena/54706
-#EXTINF:-1, ® Disco Polo Music
-http://esotheric.one:8900/mena/mena/54707
-#EXTINF:-1, ® Discovery Channel FHD
-http://esotheric.one:8900/mena/mena/54708
-#EXTINF:-1, ® Discovery Historia
-http://esotheric.one:8900/mena/mena/54709
-#EXTINF:-1, ® Discovery Investigation FHD
-http://esotheric.one:8900/mena/mena/54710
-#EXTINF:-1, ® Discovery Life FHD
-http://esotheric.one:8900/mena/mena/54711
-#EXTINF:-1, ® Discovery Science FHD
-http://esotheric.one:8900/mena/mena/54712
-#EXTINF:-1, ® Discovery Turbo Xtra HD
-http://esotheric.one:8900/mena/mena/54713
-#EXTINF:-1, ® Disney Channel FHD
-http://esotheric.one:8900/mena/mena/54714
-#EXTINF:-1, ® Disney Junior
-http://esotheric.one:8900/mena/mena/54715
-#EXTINF:-1, ® Disney XD
-http://esotheric.one:8900/mena/mena/54716
-#EXTINF:-1, ® Domo FHD
-http://esotheric.one:8900/mena/mena/54717
-#EXTINF:-1, ® DTX FHD
-http://esotheric.one:8900/mena/mena/54718
-#EXTINF:-1, ® E! Entertainment
-http://esotheric.one:8900/mena/mena/54719
-#EXTINF:-1, ® Eleven Sports 1 FHD
-http://esotheric.one:8900/mena/mena/54720
-#EXTINF:-1, ® Eleven Sports 2 HD
-http://esotheric.one:8900/mena/mena/54721
-#EXTINF:-1, ® Eleven Sports 3 HD
-http://esotheric.one:8900/mena/mena/54722
-#EXTINF:-1, ® Eleven Sports 4 FHD
-http://esotheric.one:8900/mena/mena/54723
-#EXTINF:-1, ® Epic Drama HD
-http://esotheric.one:8900/mena/mena/54724
-#EXTINF:-1, ® Eska TV
-http://esotheric.one:8900/mena/mena/54725
-#EXTINF:-1, ® Eurosport 1 HD
-http://esotheric.one:8900/mena/mena/54726
-#EXTINF:-1, ® Eurosport 2 HD
-http://esotheric.one:8900/mena/mena/54727
-#EXTINF:-1, ® Extreme Sports HD
-http://esotheric.one:8900/mena/mena/54728
-#EXTINF:-1, ® Fightbox FHD
-http://esotheric.one:8900/mena/mena/54729
-#EXTINF:-1, ® Filmbox Action
-http://esotheric.one:8900/mena/mena/54730
-#EXTINF:-1, ® Filmbox Arthouse
-http://esotheric.one:8900/mena/mena/54731
-#EXTINF:-1, ® Filmbox Extra FHD
-http://esotheric.one:8900/mena/mena/54732
-#EXTINF:-1, ® Filmbox Family
-http://esotheric.one:8900/mena/mena/54733
-#EXTINF:-1, ® Filmbox Premium FHD
-http://esotheric.one:8900/mena/mena/54734
-#EXTINF:-1, ® Fokus TV FHD
-http://esotheric.one:8900/mena/mena/54735
-#EXTINF:-1, ® Food Network FHD
-http://esotheric.one:8900/mena/mena/54736
-#EXTINF:-1, ® Fox Comedy FHD
-http://esotheric.one:8900/mena/mena/54737
-#EXTINF:-1, ® FOX FHD
-http://esotheric.one:8900/mena/mena/54738
-#EXTINF:-1, ® H2 FHD
-http://esotheric.one:8900/mena/mena/54739
-#EXTINF:-1, ® HBO 1 HD
-http://esotheric.one:8900/mena/mena/54740
-#EXTINF:-1, ® HBO 2 FHD
-http://esotheric.one:8900/mena/mena/54741
-#EXTINF:-1, ® HBO 3 FHD
-http://esotheric.one:8900/mena/mena/54742
-#EXTINF:-1, ® HGTV FHD
-http://esotheric.one:8900/mena/mena/54743
-#EXTINF:-1, ® History FHD
-http://esotheric.one:8900/mena/mena/54744
-#EXTINF:-1, ® ID FHD
-http://esotheric.one:8900/mena/mena/54745
-#EXTINF:-1, ® Kino Polska FHD
-http://esotheric.one:8900/mena/mena/54746
-#EXTINF:-1, ® Kino Polska Muzyka
-http://esotheric.one:8900/mena/mena/54747
-#EXTINF:-1, ® Kuchnia FHD
-http://esotheric.one:8900/mena/mena/54748
-#EXTINF:-1, ® Lifetime FHD
-http://esotheric.one:8900/mena/mena/54749
-#EXTINF:-1, ® Metro
-http://esotheric.one:8900/mena/mena/54750
-#EXTINF:-1, ® MiniMini FHD
-http://esotheric.one:8900/mena/mena/54751
-#EXTINF:-1, ® Motowizja FHD
-http://esotheric.one:8900/mena/mena/54752
-#EXTINF:-1, ® MTV Live FHD
-http://esotheric.one:8900/mena/mena/54753
-#EXTINF:-1, ® MTV Polska FHD
-http://esotheric.one:8900/mena/mena/54754
-#EXTINF:-1, ® Music Vox
-http://esotheric.one:8900/mena/mena/54755
-#EXTINF:-1, ® Nat Geo FHD
-http://esotheric.one:8900/mena/mena/54756
-#EXTINF:-1, ® Nat Geo People FHD
-http://esotheric.one:8900/mena/mena/54757
-#EXTINF:-1, ® Nat Geo People HD
-http://esotheric.one:8900/mena/mena/54758
-#EXTINF:-1, ® Nat Geo Wild
-http://esotheric.one:8900/mena/mena/54759
-#EXTINF:-1, ® Nat Geo Wild FHD
-http://esotheric.one:8900/mena/mena/54760
-#EXTINF:-1, ® NC+ PR
-http://esotheric.one:8900/mena/mena/54761
-#EXTINF:-1, ® NC+ Radio
-http://esotheric.one:8900/mena/mena/54762
-#EXTINF:-1, ® Nick Jr Polska
-http://esotheric.one:8900/mena/mena/54763
-#EXTINF:-1, ® Nickelodeon
-http://esotheric.one:8900/mena/mena/54764
-#EXTINF:-1, ® Nowa TV FHD
-http://esotheric.one:8900/mena/mena/54765
-#EXTINF:-1, ® nSport FHD
-http://esotheric.one:8900/mena/mena/54766
-#EXTINF:-1, ® Nuta TV
-http://esotheric.one:8900/mena/mena/54767
-#EXTINF:-1, ® Paramount Channel FHD
-http://esotheric.one:8900/mena/mena/54768
-#EXTINF:-1, ® Planete FHD
-http://esotheric.one:8900/mena/mena/54769
-#EXTINF:-1, ® Polo TV
-http://esotheric.one:8900/mena/mena/54770
-#EXTINF:-1, ® Polonia
-http://esotheric.one:8900/mena/mena/54771
-#EXTINF:-1, ® Polsat 1 FHD
-http://esotheric.one:8900/mena/mena/54772
-#EXTINF:-1, ® Polsat 2 FHD
-http://esotheric.one:8900/mena/mena/54773
-#EXTINF:-1, ® Polsat Cafe FHD
-http://esotheric.one:8900/mena/mena/54774
-#EXTINF:-1, ® Polsat Doku FHD
-http://esotheric.one:8900/mena/mena/54775
-#EXTINF:-1, ® Polsat Film FHD
-http://esotheric.one:8900/mena/mena/54776
-#EXTINF:-1, ® Polsat Games FHD
-http://esotheric.one:8900/mena/mena/54777
-#EXTINF:-1, ® Polsat Jim Jam
-http://esotheric.one:8900/mena/mena/54778
-#EXTINF:-1, ® Polsat Music FHD
-http://esotheric.one:8900/mena/mena/54779
-#EXTINF:-1, ® Polsat News FHD
-http://esotheric.one:8900/mena/mena/54780
-#EXTINF:-1, ® Polsat Rodzina FHD
-http://esotheric.one:8900/mena/mena/54781
-#EXTINF:-1, ® Polsat Romans
-http://esotheric.one:8900/mena/mena/54782
-#EXTINF:-1, ® Polsat Sport Extra FHD
-http://esotheric.one:8900/mena/mena/54783
-#EXTINF:-1, ® Polsat Sport FHD
-http://esotheric.one:8900/mena/mena/54784
-#EXTINF:-1, ® Polsat Sport Fight HD
-http://esotheric.one:8900/mena/mena/54785
-#EXTINF:-1, ® Polsat Sport News HD
-http://esotheric.one:8900/mena/mena/54786
-#EXTINF:-1, ® Polsat Sport Premium 1 FHD
-http://esotheric.one:8900/mena/mena/54787
-#EXTINF:-1, ® Polsat Sport Premium 2 FHD
-http://esotheric.one:8900/mena/mena/54788
-#EXTINF:-1, ® Polsat Sport Premium PPV 4 FHD
-http://esotheric.one:8900/mena/mena/54789
-#EXTINF:-1, ® Polsat Viasat Explore FHD
-http://esotheric.one:8900/mena/mena/54790
-#EXTINF:-1, ® Polsat Viasat History FHD
-http://esotheric.one:8900/mena/mena/54791
-#EXTINF:-1, ® Polsat Viasat Nature FHD
-http://esotheric.one:8900/mena/mena/54792
-#EXTINF:-1, ® Power TV
-http://esotheric.one:8900/mena/mena/54793
-#EXTINF:-1, ® Radio ZET
-http://esotheric.one:8900/mena/mena/54794
-#EXTINF:-1, ® Red Carpet TV
-http://esotheric.one:8900/mena/mena/54795
-#EXTINF:-1, ® Romance TV
-http://esotheric.one:8900/mena/mena/54796
-#EXTINF:-1, ® SciFi Universal FHD
-http://esotheric.one:8900/mena/mena/54797
-#EXTINF:-1, ® Stars TV
-http://esotheric.one:8900/mena/mena/54798
-#EXTINF:-1, ® Stopklatka TV
-http://esotheric.one:8900/mena/mena/54799
-#EXTINF:-1, ® Sundance TV FHD
-http://esotheric.one:8900/mena/mena/54800
-#EXTINF:-1, ® Super Polsat FHD
-http://esotheric.one:8900/mena/mena/54801
-#EXTINF:-1, ® Teletoon FHD
-http://esotheric.one:8900/mena/mena/54802
-#EXTINF:-1, ® TLC FHD
-http://esotheric.one:8900/mena/mena/54803
-#EXTINF:-1, ® TNT HD
-http://esotheric.one:8900/mena/mena/54804
-#EXTINF:-1, ® Travel Channel FHD
-http://esotheric.one:8900/mena/mena/54805
-#EXTINF:-1, ® TTV FHD
-http://esotheric.one:8900/mena/mena/54806
-#EXTINF:-1, ® TV Puls FHD
-http://esotheric.one:8900/mena/mena/54807
-#EXTINF:-1, ® TV Republika
-http://esotheric.one:8900/mena/mena/54808
-#EXTINF:-1, ® TV6 FHD
-http://esotheric.one:8900/mena/mena/54809
-#EXTINF:-1, ® TVN 24 HD
-http://esotheric.one:8900/mena/mena/54810
-#EXTINF:-1, ® TVN 7 HD
-http://esotheric.one:8900/mena/mena/54811
-#EXTINF:-1, ® TVN Fabula
-http://esotheric.one:8900/mena/mena/54812
-#EXTINF:-1, ® TVN HD
-http://esotheric.one:8900/mena/mena/54813
-#EXTINF:-1, ® TVN Style FHD
-http://esotheric.one:8900/mena/mena/54814
-#EXTINF:-1, ® TVN Turbo FHD
-http://esotheric.one:8900/mena/mena/54815
-#EXTINF:-1, ® TVP 1 FHD
-http://esotheric.one:8900/mena/mena/54816
-#EXTINF:-1, ® TVP 2 FHD
-http://esotheric.one:8900/mena/mena/54817
-#EXTINF:-1, ® TVP 3
-http://esotheric.one:8900/mena/mena/54818
-#EXTINF:-1, ® TVP ABC
-http://esotheric.one:8900/mena/mena/54819
-#EXTINF:-1, ® TVP FHD
-http://esotheric.one:8900/mena/mena/54820
-#EXTINF:-1, ® TVP Historia
-http://esotheric.one:8900/mena/mena/54821
-#EXTINF:-1, ® TVP Info FHD
-http://esotheric.one:8900/mena/mena/54822
-#EXTINF:-1, ® TVP Kultura
-http://esotheric.one:8900/mena/mena/54823
-#EXTINF:-1, ® TVP Rozrywka
-http://esotheric.one:8900/mena/mena/54824
-#EXTINF:-1, ® TVP Seriale
-http://esotheric.one:8900/mena/mena/54825
-#EXTINF:-1, ® TVP Sport HD
-http://esotheric.one:8900/mena/mena/54826
-#EXTINF:-1, ® TVS
-http://esotheric.one:8900/mena/mena/54827
-#EXTINF:-1, ® Universal HD
-http://esotheric.one:8900/mena/mena/54828
-#EXTINF:-1, ® VH1
-http://esotheric.one:8900/mena/mena/54829
+#EXTINF:-1,======== CYFROWY POLSAT ========
+http://45.141.58.67:80/Aaron/Aaron/665798
+#EXTINF:-1,⚽️ TVP HD
+http://45.141.58.67:80/Aaron/Aaron/665797
+#EXTINF:-1,⚽️ TVP 1 FHD
+http://45.141.58.67:80/Aaron/Aaron/665796
+#EXTINF:-1,⚽️ TVP 2 FHD
+http://45.141.58.67:80/Aaron/Aaron/665795
+#EXTINF:-1,⚽️ TVP 3 Bialystok
+http://45.141.58.67:80/Aaron/Aaron/665794
+#EXTINF:-1,⚽️ TVP 3 katowice
+http://45.141.58.67:80/Aaron/Aaron/665793
+#EXTINF:-1,⚽️ TVP 3 GDAŃSK
+http://45.141.58.67:80/Aaron/Aaron/665792
+#EXTINF:-1,⚽️ TVP 3 Krakow
+http://45.141.58.67:80/Aaron/Aaron/665791
+#EXTINF:-1,⚽️ TVP 3 Olsztyn
+http://45.141.58.67:80/Aaron/Aaron/665790
+#EXTINF:-1,⚽️ TVP 3 Rzeszow
+http://45.141.58.67:80/Aaron/Aaron/665789
+#EXTINF:-1,⚽️ TVP 3 Wroclaw
+http://45.141.58.67:80/Aaron/Aaron/665788
+#EXTINF:-1,⚽️ TVP 3 Bydgoszcz
+http://45.141.58.67:80/Aaron/Aaron/665787
+#EXTINF:-1,⚽️ TVP 3 Lublin
+http://45.141.58.67:80/Aaron/Aaron/665786
+#EXTINF:-1,⚽️ TVP 3 Opole
+http://45.141.58.67:80/Aaron/Aaron/665785
+#EXTINF:-1,⚽️ TVP 3 Szczecin
+http://45.141.58.67:80/Aaron/Aaron/665784
+#EXTINF:-1,⚽️ TVP 3 Kielce
+http://45.141.58.67:80/Aaron/Aaron/665783
+#EXTINF:-1,⚽️ TVP 3 Lodz
+http://45.141.58.67:80/Aaron/Aaron/665782
+#EXTINF:-1,⚽️ TVP 3 Poznan
+http://45.141.58.67:80/Aaron/Aaron/665781
+#EXTINF:-1,⚽️ TVP 3 Warszawa
+http://45.141.58.67:80/Aaron/Aaron/665780
+#EXTINF:-1,⚽️ TVP POLONIA FHD
+http://45.141.58.67:80/Aaron/Aaron/665779
+#EXTINF:-1,⚽️ TVP SPORT FHD
+http://45.141.58.67:80/Aaron/Aaron/665778
+#EXTINF:-1,⚽️ TVP SERIALE
+http://45.141.58.67:80/Aaron/Aaron/665777
+#EXTINF:-1,⚽️ TVN FABULA FHD
+http://45.141.58.67:80/Aaron/Aaron/665776
+#EXTINF:-1,⚽️ TVP KULTURA FHD
+http://45.141.58.67:80/Aaron/Aaron/665775
+#EXTINF:-1,⚽️ TVP HISTORIA
+http://45.141.58.67:80/Aaron/Aaron/665774
+#EXTINF:-1,⚽️ TVP ROZRYWKA
+http://45.141.58.67:80/Aaron/Aaron/665773
+#EXTINF:-1,⚽️ TV 4 FHD
+http://45.141.58.67:80/Aaron/Aaron/665772
+#EXTINF:-1,⚽️ TVN FHD
+http://45.141.58.67:80/Aaron/Aaron/665771
+#EXTINF:-1,⚽️ TVN
+http://45.141.58.67:80/Aaron/Aaron/665770
+#EXTINF:-1,⚽️ TVN 7 FHD
+http://45.141.58.67:80/Aaron/Aaron/665769
+#EXTINF:-1,⚽️ TVN24 FHD
+http://45.141.58.67:80/Aaron/Aaron/665768
+#EXTINF:-1,⚽️ TVN24 BIS FHD
+http://45.141.58.67:80/Aaron/Aaron/665767
+#EXTINF:-1,⚽️ TVN STYLE FHD
+http://45.141.58.67:80/Aaron/Aaron/665766
+#EXTINF:-1,⚽️ TVN TURBO FHD
+http://45.141.58.67:80/Aaron/Aaron/665765
+#EXTINF:-1,⚽️ TVP INFO FHD
+http://45.141.58.67:80/Aaron/Aaron/665764
+#EXTINF:-1,⚽️ TV PLUS FHD
+http://45.141.58.67:80/Aaron/Aaron/665763
+#EXTINF:-1,⚽️ TV PLUS 2
+http://45.141.58.67:80/Aaron/Aaron/665762
+#EXTINF:-1,⚽️ TV REPUBLIKA
+http://45.141.58.67:80/Aaron/Aaron/665761
+#EXTINF:-1,⚽️ BBC EARTH FHD
+http://45.141.58.67:80/Aaron/Aaron/665760
+#EXTINF:-1,⚽️ BBC BRIT FHD
+http://45.141.58.67:80/Aaron/Aaron/665759
+#EXTINF:-1,⚽️ BBC FIRST FHD
+http://45.141.58.67:80/Aaron/Aaron/665758
+#EXTINF:-1,⚽️ BBC LIFESTYLE FHD
+http://45.141.58.67:80/Aaron/Aaron/665757
+#EXTINF:-1,⚽️ POLSAT 1 FHD
+http://45.141.58.67:80/Aaron/Aaron/665756
+#EXTINF:-1,⚽️ POLSAT 2 FHD
+http://45.141.58.67:80/Aaron/Aaron/665755
+#EXTINF:-1,⚽️ POLSAT CAFE FHD
+http://45.141.58.67:80/Aaron/Aaron/665754
+#EXTINF:-1,⚽️ POLSAT PLAY FHD
+http://45.141.58.67:80/Aaron/Aaron/665753
+#EXTINF:-1,⚽️ POLSAT NEWS FHD
+http://45.141.58.67:80/Aaron/Aaron/665752
+#EXTINF:-1,⚽️ POLSAT FILM FHD
+http://45.141.58.67:80/Aaron/Aaron/665751
+#EXTINF:-1,⚽️ POLSAT JIMJAM
+http://45.141.58.67:80/Aaron/Aaron/665750
+#EXTINF:-1,⚽️ POLSAT NEWS 2
+http://45.141.58.67:80/Aaron/Aaron/665749
+#EXTINF:-1,⚽️ POLSAT ROMANS KasiaFHD
+http://45.141.58.67:80/Aaron/Aaron/665748
+#EXTINF:-1,⚽️ SUPER POLSAT FHD
+http://45.141.58.67:80/Aaron/Aaron/665747
+#EXTINF:-1,⚽️ POLSAT DOKU FHD
+http://45.141.58.67:80/Aaron/Aaron/665746
+#EXTINF:-1,⚽️ POLSAT GAMES FHD
+http://45.141.58.67:80/Aaron/Aaron/665745
+#EXTINF:-1,⚽️ POLSAT RODZINA FHD
+http://45.141.58.67:80/Aaron/Aaron/665744
+#EXTINF:-1,⚽️ ELEVEN SPORTS 1 FHD
+http://45.141.58.67:80/Aaron/Aaron/665743
+#EXTINF:-1,⚽️ ELEVEN SPORTS 2 FHD
+http://45.141.58.67:80/Aaron/Aaron/665742
+#EXTINF:-1,⚽️ ELEVEN SPORTS 3 FHD
+http://45.141.58.67:80/Aaron/Aaron/665741
+#EXTINF:-1,⚽️ ELEVEN SPORTS 4 FHD
+http://45.141.58.67:80/Aaron/Aaron/665740
+#EXTINF:-1,⚽️ POLSAT SPORT NEWS FHD
+http://45.141.58.67:80/Aaron/Aaron/665739
+#EXTINF:-1,⚽️ POLSAT SPORT FHD
+http://45.141.58.67:80/Aaron/Aaron/665738
+#EXTINF:-1,⚽️ POLSAT SPORT PREMIUM 1 FHD
+http://45.141.58.67:80/Aaron/Aaron/665737
+#EXTINF:-1,⚽️ POLSAT SPORT PREMIUM 2 FHD
+http://45.141.58.67:80/Aaron/Aaron/665736
+#EXTINF:-1,⚽️ POLSAT SPORT PREMIUM PPV3 FHD
+http://45.141.58.67:80/Aaron/Aaron/665735
+#EXTINF:-1,⚽️ POLSAT SPORT PREMIUM PPV4 FHD
+http://45.141.58.67:80/Aaron/Aaron/665734
+#EXTINF:-1,⚽️ POLSAT SPORT PREMIUM PPV5 FHD
+http://45.141.58.67:80/Aaron/Aaron/665733
+#EXTINF:-1,⚽️ POLSAT SPORT PREMIUM PPV6 FHD
+http://45.141.58.67:80/Aaron/Aaron/665732
+#EXTINF:-1,⚽️ POLSAT SPORT EXTRA HD
+http://45.141.58.67:80/Aaron/Aaron/665731
+#EXTINF:-1,⚽️ POLSAT SPORT FIGHT FHD
+http://45.141.58.67:80/Aaron/Aaron/665730
+#EXTINF:-1,⚽️ CANAL+ SPORT FHD
+http://45.141.58.67:80/Aaron/Aaron/665729
+#EXTINF:-1,⚽️ CANAL+ SPORT 2 FHD
+http://45.141.58.67:80/Aaron/Aaron/665728
+#EXTINF:-1,⚽️ CANAL+ SPORT 3 FHD
+http://45.141.58.67:80/Aaron/Aaron/665727
+#EXTINF:-1,⚽️ CANAL+ SPORT 4 FHD
+http://45.141.58.67:80/Aaron/Aaron/665726
+#EXTINF:-1,⚽️ KSW PPV FHD (Live During Events Only)
+http://45.141.58.67:80/Aaron/Aaron/665725
+#EXTINF:-1,⚽️ EUROSPORT 1 FHD
+http://45.141.58.67:80/Aaron/Aaron/665724
+#EXTINF:-1,⚽️ EUROSPORT 2 FHD
+http://45.141.58.67:80/Aaron/Aaron/665723
+#EXTINF:-1,⚽️ GOLF CHANNEL FHD
+http://45.141.58.67:80/Aaron/Aaron/665722
+#EXTINF:-1,⚽️ NSPORT+ FHD
+http://45.141.58.67:80/Aaron/Aaron/665721
+#EXTINF:-1,⚽️ EXTREME SPORTS FHD
+http://45.141.58.67:80/Aaron/Aaron/665720
+#EXTINF:-1,⚽️ FIGHTBOX FHD
+http://45.141.58.67:80/Aaron/Aaron/665719
+#EXTINF:-1,⚽️ FIGHTKLUB FHD
+http://45.141.58.67:80/Aaron/Aaron/665718
+#EXTINF:-1,⚽️ SPORT KLUB FHD
+http://45.141.58.67:80/Aaron/Aaron/665717
+#EXTINF:-1,⚽️ MOTORWIZJA FHD
+http://45.141.58.67:80/Aaron/Aaron/665716
+#EXTINF:-1,⚽️ CINEMAX FHD
+http://45.141.58.67:80/Aaron/Aaron/665715
+#EXTINF:-1,⚽️ CINEMAX 2 FHD
+http://45.141.58.67:80/Aaron/Aaron/665714
+#EXTINF:-1,⚽️ FILMBOX EXTRA FHD
+http://45.141.58.67:80/Aaron/Aaron/665713
+#EXTINF:-1,⚽️ FILMBOX PREMIUM FHD
+http://45.141.58.67:80/Aaron/Aaron/665712
+#EXTINF:-1,⚽️ FILMBOX ACTION
+http://45.141.58.67:80/Aaron/Aaron/665711
+#EXTINF:-1,⚽️ FILMBOX ARTHOUSE
+http://45.141.58.67:80/Aaron/Aaron/665710
+#EXTINF:-1,⚽️ FILMBOX FAMILY
+http://45.141.58.67:80/Aaron/Aaron/665709
+#EXTINF:-1,⚽️ HBO FHD
+http://45.141.58.67:80/Aaron/Aaron/665708
+#EXTINF:-1,⚽️ HBO 2 FHD
+http://45.141.58.67:80/Aaron/Aaron/665707
+#EXTINF:-1,⚽️ HBO 3 FHD
+http://45.141.58.67:80/Aaron/Aaron/665706
+#EXTINF:-1,⚽️ CANAL+ FHD
+http://45.141.58.67:80/Aaron/Aaron/665705
+#EXTINF:-1,⚽️ CANAL+ FILM FHD
+http://45.141.58.67:80/Aaron/Aaron/665704
+#EXTINF:-1,⚽️ CANAL+ FAMILY FHD
+http://45.141.58.67:80/Aaron/Aaron/665703
+#EXTINF:-1,⚽️ CANAL+ SERIALE FHD
+http://45.141.58.67:80/Aaron/Aaron/665702
+#EXTINF:-1,⚽️ CANAL+ DOKUMENT Kasia FHD
+http://45.141.58.67:80/Aaron/Aaron/665701
+#EXTINF:-1,⚽️ CANAL+ NOW FHD
+http://45.141.58.67:80/Aaron/Aaron/665700
+#EXTINF:-1,⚽️ CANAL+ PREMIUM FHD
+http://45.141.58.67:80/Aaron/Aaron/665699
+#EXTINF:-1,⚽️ ALE KINO+ FHD
+http://45.141.58.67:80/Aaron/Aaron/665698
+#EXTINF:-1,⚽️ KUCHNIA+ FHD
+http://45.141.58.67:80/Aaron/Aaron/665697
+#EXTINF:-1,⚽️ KINO TV FHD
+http://45.141.58.67:80/Aaron/Aaron/665696
+#EXTINF:-1,⚽️ KINO POLSKA FHD
+http://45.141.58.67:80/Aaron/Aaron/665695
+#EXTINF:-1,⚽️ AXN FHD
+http://45.141.58.67:80/Aaron/Aaron/665694
+#EXTINF:-1,⚽️ AXN BLACK
+http://45.141.58.67:80/Aaron/Aaron/665693
+#EXTINF:-1,⚽️ AXN SPIN FHD
+http://45.141.58.67:80/Aaron/Aaron/665692
+#EXTINF:-1,⚽️ AXN WHITE
+http://45.141.58.67:80/Aaron/Aaron/665691
+#EXTINF:-1,⚽️ FOX FHD
+http://45.141.58.67:80/Aaron/Aaron/665690
+#EXTINF:-1,⚽️ FOX COMEDY FHD
+http://45.141.58.67:80/Aaron/Aaron/665689
+#EXTINF:-1,⚽️ COMEDY CENTRAL FHD
+http://45.141.58.67:80/Aaron/Aaron/665688
+#EXTINF:-1,⚽️ COMEDY CENTRAL FAMILY FHD
+http://45.141.58.67:80/Aaron/Aaron/665687
+#EXTINF:-1,⚽️ 13 ULICA FHD
+http://45.141.58.67:80/Aaron/Aaron/665686
+#EXTINF:-1,⚽️ TLC FHD
+http://45.141.58.67:80/Aaron/Aaron/665685
+#EXTINF:-1,⚽️ TNT FHD
+http://45.141.58.67:80/Aaron/Aaron/665684
+#EXTINF:-1,⚽️ LIFETIME FHD
+http://45.141.58.67:80/Aaron/Aaron/665683
+#EXTINF:-1,⚽️ E! FHD
+http://45.141.58.67:80/Aaron/Aaron/665682
+#EXTINF:-1,⚽️ FOOD NETWORK FHD
+http://45.141.58.67:80/Aaron/Aaron/665681
+#EXTINF:-1,⚽️ HGTV FHD
+http://45.141.58.67:80/Aaron/Aaron/665680
+#EXTINF:-1,⚽️ UNIVERSAL CHANNEL FHD
+http://45.141.58.67:80/Aaron/Aaron/665679
+#EXTINF:-1,⚽️ SUNDANCE TV FHD
+http://45.141.58.67:80/Aaron/Aaron/665678
+#EXTINF:-1,⚽️ PARAMOUNT CHANNEL FHD
+http://45.141.58.67:80/Aaron/Aaron/665677
+#EXTINF:-1,⚽️ ROMANCE FHD
+http://45.141.58.67:80/Aaron/Aaron/665676
+#EXTINF:-1,⚽️ SCIFI FHD
+http://45.141.58.67:80/Aaron/Aaron/665675
+#EXTINF:-1,⚽️ RED CARPET FHD
+http://45.141.58.67:80/Aaron/Aaron/665674
+#EXTINF:-1,⚽️ DA VINCI LEARNING
+http://45.141.58.67:80/Aaron/Aaron/665673
+#EXTINF:-1,⚽️ ACTIVE FAMILY
+http://45.141.58.67:80/Aaron/Aaron/665672
+#EXTINF:-1,⚽️ ADVENTURE FHD
+http://45.141.58.67:80/Aaron/Aaron/665671
+#EXTINF:-1,⚽️ AMC FHD
+http://45.141.58.67:80/Aaron/Aaron/665670
+#EXTINF:-1,⚽️ NOVELAS TV
+http://45.141.58.67:80/Aaron/Aaron/665669
+#EXTINF:-1,⚽️ NOVELAS+
+http://45.141.58.67:80/Aaron/Aaron/665668
+#EXTINF:-1,⚽️ STOPKLATKA TV
+http://45.141.58.67:80/Aaron/Aaron/665667
+#EXTINF:-1,⚽️ STUDIOMED FHD
+http://45.141.58.67:80/Aaron/Aaron/665666
+#EXTINF:-1,⚽️ SUPERSTACJA FHD
+http://45.141.58.67:80/Aaron/Aaron/665665
+#EXTINF:-1,⚽️ TELE 5
+http://45.141.58.67:80/Aaron/Aaron/665664
+#EXTINF:-1,⚽️ NOWA TV FHD
+http://45.141.58.67:80/Aaron/Aaron/665663
+#EXTINF:-1,⚽️ EPIC DRAMA FHD
+http://45.141.58.67:80/Aaron/Aaron/665662
+#EXTINF:-1,⚽️ CBS EUROPA FHD
+http://45.141.58.67:80/Aaron/Aaron/665661
+#EXTINF:-1,⚽️ CBS REALITY FHD
+http://45.141.58.67:80/Aaron/Aaron/665660
+#EXTINF:-1,⚽️ CANAL+ DISCOVERY FHD
+http://45.141.58.67:80/Aaron/Aaron/665659
+#EXTINF:-1,⚽️ DISCO POLO MUSIC
+http://45.141.58.67:80/Aaron/Aaron/665658
+#EXTINF:-1,⚽️ DISCOVERY FHD
+http://45.141.58.67:80/Aaron/Aaron/665657
+#EXTINF:-1,⚽️ DISCOVERY HISTORIA
+http://45.141.58.67:80/Aaron/Aaron/665656
+#EXTINF:-1,⚽️ DISCOVERY TURBO XTRA FHD
+http://45.141.58.67:80/Aaron/Aaron/665655
+#EXTINF:-1,⚽️ DISCOVERY LIFE FHD
+http://45.141.58.67:80/Aaron/Aaron/665654
+#EXTINF:-1,⚽️ DISCOVERY SCIENCE FHD
+http://45.141.58.67:80/Aaron/Aaron/665653
+#EXTINF:-1,⚽️ ID FHD
+http://45.141.58.67:80/Aaron/Aaron/665652
+#EXTINF:-1,⚽️ CRIME+ INVESTIGATION POLSAT FHD
+http://45.141.58.67:80/Aaron/Aaron/665651
+#EXTINF:-1,⚽️ HISTORY FHD
+http://45.141.58.67:80/Aaron/Aaron/665650
+#EXTINF:-1,⚽️ H2 FHD
+http://45.141.58.67:80/Aaron/Aaron/665649
+#EXTINF:-1,⚽️ PLANETE+ FHD
+http://45.141.58.67:80/Aaron/Aaron/665648
+#EXTINF:-1,⚽️ NAT GEO FHD
+http://45.141.58.67:80/Aaron/Aaron/665647
+#EXTINF:-1,⚽️ NAT GEO PEOPLE FHD
+http://45.141.58.67:80/Aaron/Aaron/665646
+#EXTINF:-1,⚽️ NAT GEO WILD FHD
+http://45.141.58.67:80/Aaron/Aaron/665645
+#EXTINF:-1,⚽️ ANIMAL PLANET FHD
+http://45.141.58.67:80/Aaron/Aaron/665644
+#EXTINF:-1,⚽️ TRAVEL CHANNEL FHD
+http://45.141.58.67:80/Aaron/Aaron/665643
+#EXTINF:-1,⚽️ POLSAT VIASAT EXPLORE FHD
+http://45.141.58.67:80/Aaron/Aaron/665642
+#EXTINF:-1,⚽️ POLSAT VIASAT NATURE FHD
+http://45.141.58.67:80/Aaron/Aaron/665641
+#EXTINF:-1,⚽️ MINIMINI+ FHD
+http://45.141.58.67:80/Aaron/Aaron/665640
+#EXTINF:-1,⚽️ CARTOON NETWORK FHD
+http://45.141.58.67:80/Aaron/Aaron/665639
+#EXTINF:-1,⚽️ DISNEY CHANNEL FHD
+http://45.141.58.67:80/Aaron/Aaron/665638
+#EXTINF:-1,⚽️ DISNEY JUNIOR
+http://45.141.58.67:80/Aaron/Aaron/665637
+#EXTINF:-1,⚽️ DISNEY XD
+http://45.141.58.67:80/Aaron/Aaron/665636
+#EXTINF:-1,⚽️ BOOMERANG FHD
+http://45.141.58.67:80/Aaron/Aaron/665635
+#EXTINF:-1,⚽️ NICK JR
+http://45.141.58.67:80/Aaron/Aaron/665634
+#EXTINF:-1,⚽️ NICKELODEON
+http://45.141.58.67:80/Aaron/Aaron/665633
+#EXTINF:-1,⚽️ NICKTOONS FHD
+http://45.141.58.67:80/Aaron/Aaron/665632
+#EXTINF:-1,⚽️ TELETOON+ FHD
+http://45.141.58.67:80/Aaron/Aaron/665631
+#EXTINF:-1,⚽️ TOP KIDS JR
+http://45.141.58.67:80/Aaron/Aaron/665630
+#EXTINF:-1,⚽️ POLO TV
+http://45.141.58.67:80/Aaron/Aaron/665629
+#EXTINF:-1,⚽️ MTV POLSKA FHD
+http://45.141.58.67:80/Aaron/Aaron/665628
+#EXTINF:-1,⚽️ POLSAT MUSIC FHD
+http://45.141.58.67:80/Aaron/Aaron/665627
+#EXTINF:-1,⚽️ 4 FUN TV
+http://45.141.58.67:80/Aaron/Aaron/665626
+#EXTINF:-1,⚽️ 4 FUN DANCE
+http://45.141.58.67:80/Aaron/Aaron/665625
+#EXTINF:-1,⚽️ 4 FUN KIDS
+http://45.141.58.67:80/Aaron/Aaron/665624
+#EXTINF:-1,⚽️ TV 6 FHD
+http://45.141.58.67:80/Aaron/Aaron/665623
+#EXTINF:-1,⚽️ VOX MUSIC TV
+http://45.141.58.67:80/Aaron/Aaron/665622
+#EXTINF:-1,⚽️ Kino Polska Muzyka
+http://45.141.58.67:80/Aaron/Aaron/665621
+#EXTINF:-1,⚽️ TTV FHD
+http://45.141.58.67:80/Aaron/Aaron/665620
+#EXTINF:-1,⚽️ TV KUJAWY
+http://45.141.58.67:80/Aaron/Aaron/665619
+#EXTINF:-1,⚽️ TV OKAZJE
+http://45.141.58.67:80/Aaron/Aaron/665618
+#EXTINF:-1,⚽️ TV TORUN FHD
+http://45.141.58.67:80/Aaron/Aaron/665617
+#EXTINF:-1,⚽️ TV TRWAM
+http://45.141.58.67:80/Aaron/Aaron/665616
+#EXTINF:-1,⚽️ TVT FHD
+http://45.141.58.67:80/Aaron/Aaron/665615
+#EXTINF:-1,⚽️ TVS
+http://45.141.58.67:80/Aaron/Aaron/665614
+#EXTINF:-1,⚽️ WP
+http://45.141.58.67:80/Aaron/Aaron/665613
+#EXTINF:-1,⚽️ ZOOM TV
+http://45.141.58.67:80/Aaron/Aaron/665612
+#EXTINF:-1,⚽️ ESKA TV
+http://45.141.58.67:80/Aaron/Aaron/665611
+#EXTINF:-1,⚽️ ESKA TV EXTRA
+http://45.141.58.67:80/Aaron/Aaron/665610
+#EXTINF:-1,⚽️ ESKA ROCK TV
+http://45.141.58.67:80/Aaron/Aaron/665609
+#EXTINF:-1,⚽️ NUTA TV
+http://45.141.58.67:80/Aaron/Aaron/665608
+#EXTINF:-1,⚽️ METRO
+http://45.141.58.67:80/Aaron/Aaron/665607
+#EXTINF:-1,⚽️ ATM ROZRYWKA TV
+http://45.141.58.67:80/Aaron/Aaron/665606
+#EXTINF:-1,⚽️ FOKUS TV FHD
+http://45.141.58.67:80/Aaron/Aaron/665605
+#EXTINF:-1,⚽️ GOLD
+http://45.141.58.67:80/Aaron/Aaron/665604
+#EXTINF:-1,⚽️ POWER TV
+http://45.141.58.67:80/Aaron/Aaron/665603
+#EXTINF:-1,⚽️ wPolsce.pl
+http://45.141.58.67:80/Aaron/Aaron/665602
+#EXTINF:-1,⚽️ STARS TV
+http://45.141.58.67:80/Aaron/Aaron/665601
+#EXTINF:-1,⚽️ VOD 202
+http://45.141.58.67:80/Aaron/Aaron/665600
+#EXTINF:-1,⚽️ VOD 204
+http://45.141.58.67:80/Aaron/Aaron/665599
+#EXTINF:-1,⚽️ VOD 205
+http://45.141.58.67:80/Aaron/Aaron/665598
+#EXTINF:-1,⚽️ VOD 206
+http://45.141.58.67:80/Aaron/Aaron/665597
+#EXTINF:-1,⚽️ VOD 207
+http://45.141.58.67:80/Aaron/Aaron/665596
+#EXTINF:-1,⚽️ VOD 208
+http://45.141.58.67:80/Aaron/Aaron/665595
+#EXTINF:-1,⚽️ VOD 212
+http://45.141.58.67:80/Aaron/Aaron/665594
