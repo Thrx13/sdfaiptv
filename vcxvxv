@@ -1,0 +1,327 @@
+#EXTM3U
+#EXTINF:0 tvg-id="TVP1.pl" group-title="Channels",TVP 1
+https://cutt.ly/NEGnLcd
+#EXTINF:0 tvg-id="TVP2.pl" group-title="Channels",TVP 2
+https://cutt.ly/kEGnZjN
+#EXTINF:0 tvg-id="TVP3.pl" group-title="Channels",TVP 3
+https://cutt.ly/4EGnXcu
+#EXTINF:0 tvg-id="TVPHD.pl" group-title="Channels",TVP
+https://cutt.ly/fEGnCK6
+#EXTINF:0 tvg-id="TVPABC.pl" group-title="Channels",TVP ABC
+https://cutt.ly/AEGnVvE
+#EXTINF:0 tvg-id="TVPHistoria.pl" group-title="Channels",TVP HISTORIA
+https://cutt.ly/vEGnMMH
+#EXTINF:0 tvg-id="TVPInfo.pl" group-title="Channels",TVP INFO HD
+https://cutt.ly/QEGn13v
+#EXTINF:0 tvg-id="TVPKultura.pl" group-title="Channels",TVP KULTURA
+https://cutt.ly/HEGn2sr
+#EXTINF:0 tvg-id="TVPRozrywka.pl" group-title="Channels",TVP ROZRYWKA
+https://cutt.ly/7EGn9ry
+#EXTINF:0 tvg-id="TVPSeriale.pl" group-title="Channels",TVP SERIALE
+https://cutt.ly/aEGn7zv
+#EXTINF:0 tvg-id="TVPSport.pl" group-title="Channels",TVP SPORT
+https://cutt.ly/pEGn767
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV PULS HEVC
+https://cutt.ly/eEGn6wK
+#EXTINF:0 tvg-id="TVrepublika.pl" group-title="Channels",TV REPUBLIKA
+https://cutt.ly/6EGn6I3
+#EXTINF:0 tvg-id="TVS.pl" group-title="Channels",TVS
+https://cutt.ly/3EGmqaa
+#EXTINF:0 tvg-id="Polsat2.pl" group-title="Channels",POLSAT 2
+https://cutt.ly/SEGmqLb
+#EXTINF:0 tvg-id="Polsat.pl" group-title="Channels",POLSAT
+https://cutt.ly/mEGmwWT
+#EXTINF:0 tvg-id="PolsatCafe.pl" group-title="Channels",POLSAT CAFE
+https://cutt.ly/pEGmev8
+#EXTINF:0 tvg-id="PolsatDoku.pl" group-title="Channels",POLSAT DOKU HD
+https://cutt.ly/mEGmrRg
+#EXTINF:0 tvg-id="PolsatFilm.pl" group-title="Channels",POLSAT FILM
+https://cutt.ly/oEGmtcD
+#EXTINF:0 tvg-id="PolsatNews2.pl" group-title="Channels",POLSAT NEWS 2
+https://cutt.ly/LEGmyZO
+#EXTINF:0 tvg-id="PolsatNews.pl" group-title="Channels",POLSAT NEWS
+https://cutt.ly/rEGmuv7
+#EXTINF:0 tvg-id="PolsatPlay.pl" group-title="Channels",POLSAT PLAY
+https://cutt.ly/yEGmiYh
+#EXTINF:0 tvg-id="PolsatSport.pl" group-title="Channels",POLSAT SPORT
+https://cutt.ly/xEGmokm
+#EXTINF:0 tvg-id="ext" group-title="Channels",POLSAT SPORT EXTRA HEVC
+https://cutt.ly/VEGmpaJ
+#EXTINF:0 tvg-id="PolsatSportFight.pl" group-title="Channels",POLSAT SPORT FIGHT
+https://cutt.ly/DEGmpVT
+#EXTINF:0 tvg-id="PolsatSportNews.pl" group-title="Channels",POLSAT SPORT NEWS HD
+https://cutt.ly/OEGmaNU
+#EXTINF:0 tvg-id="PolsatSportPremium1.pl" group-title="Channels",POLSAT SPORT PREMIUM 1
+https://cutt.ly/FEGmsVI
+#EXTINF:0 tvg-id="PolsatSportPremium2.pl" group-title="Channels",POLSAT SPORT PREMIUM 2
+https://cutt.ly/zEGmd0a
+#EXTINF:0 tvg-id="ext" group-title="Channels",POLSAT SPORT PREMIUM PPV3 HD
+https://cutt.ly/sEGmf4h
+#EXTINF:0 tvg-id="ext" group-title="Channels",POLSAT SPORT PREMIUM PPV4 HD
+https://cutt.ly/WEGmgFm
+#EXTINF:0 tvg-id="ext" group-title="Channels",POLSAT SPORT PREMIUM PPV5 HD
+https://cutt.ly/yEGmhzV
+#EXTINF:0 tvg-id="ext" group-title="Channels",POLSAT SPORT PREMIUM PPV6 HD
+https://cutt.ly/SEGmka6
+#EXTINF:0 tvg-id="ViasatHistory.pl" group-title="Channels",POLSAT VIASAT HISTORY HD
+https://cutt.ly/tEGmlsX
+#EXTINF:0 tvg-id="ext" group-title="Channels",POLSAT VIASAT NATURE HD
+https://cutt.ly/lEGmzSC
+#EXTINF:0 tvg-id="4fun.pl" group-title="Channels",4FUN TV
+https://cutt.ly/JEGmxvm
+#EXTINF:0 tvg-id="4FunDance.pl" group-title="Channels",4FUN DANCE
+https://cutt.ly/VEGmcbc
+#EXTINF:0 tvg-id="4FunGoldHits.pl" group-title="Channels",4FUN GOLD HITS
+https://cutt.ly/pEGmveJ
+#EXTINF:0 tvg-id="13Ulica.pl" group-title="Channels",13 ULICA
+https://cutt.ly/UEGmvLz
+#EXTINF:0 tvg-id="FamilySport.pl" group-title="Channels",ACTIVE FAMILY
+https://cutt.ly/REGmbEn
+#EXTINF:0 tvg-id="Adventure.pl" group-title="Channels",ADVENTURE HD
+https://cutt.ly/6EGmnlJ
+#EXTINF:0 tvg-id="AleKino.pl" group-title="Channels",ALE KINO HD
+https://cutt.ly/6EGmmuA
+#EXTINF:0 tvg-id="ext" group-title="Channels",AMC HD PL
+https://cutt.ly/cEGmm27
+#EXTINF:0 tvg-id="AXN.pl" group-title="Channels",AXN
+https://cutt.ly/3EGmQDX
+#EXTINF:0 tvg-id="AXNSpinHD.pl" group-title="Channels",AXN SPIN HD
+https://cutt.ly/VEGmWH6
+#EXTINF:0 tvg-id="BBCBrit.pl" group-title="Channels",BBC BRIT
+https://cutt.ly/xEGmReo
+#EXTINF:0 tvg-id="CBeebies.pl" group-title="Channels",BBC CBEEBIES
+https://cutt.ly/0EGmTwG
+#EXTINF:0 tvg-id="BBCEarth.pl" group-title="Channels",BBC EARTH HD PL
+https://cutt.ly/sEGmT6h
+#EXTINF:0 tvg-id="BBCFirst.uk" group-title="Channels",BBC FIRST
+https://cutt.ly/XEGmUc4
+#EXTINF:0 tvg-id="BBCLifestyle.pl" group-title="Channels",BBC LIFESTYLE
+https://cutt.ly/hEGmIeG
+#EXTINF:0 tvg-id="Boomerang.pl" group-title="Channels",BOOMERANG
+https://cutt.ly/bEGmICR
+#EXTINF:0 tvg-id="CanalplusFamily2.pl" group-title="Channels",CANAL 1 HD
+https://cutt.ly/hEGmOIU
+#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL DOKUMENT HD
+https://cutt.ly/jEGmPuz
+#EXTINF:0 tvg-id="CanalplusFilm.pl" group-title="Channels",CANAL FILM HD
+https://cutt.ly/IEGmAwX
+#EXTINF:0 tvg-id="Canalplus.pl" group-title="Channels",CANAL HD
+https://cutt.ly/CEGmF1c
+#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL NOW HD
+https://cutt.ly/1EGmGc9
+#EXTINF:0 tvg-id="CanalPlusSeriale.pl" group-title="Channels",CANAL SERIALE HD
+https://cutt.ly/6EGmHpy
+#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL SPORT 2
+https://cutt.ly/xEGmHB8
+#EXTINF:0 tvg-id="CanalplusSports.pl" group-title="Channels",CANAL SPORT
+https://cutt.ly/uEGmKpy
+#EXTINF:0 tvg-id="CBSReality.pl" group-title="Channels",CBS REALITY
+https://cutt.ly/ZEGmK9P
+#EXTINF:0 tvg-id="Cinemax2.pl" group-title="Channels",CINEMAX 2
+https://cutt.ly/AEGmLZ9
+#EXTINF:0 tvg-id="CinemaxHD.pl" group-title="Channels",CINEMAX
+https://cutt.ly/QEGmZzm
+#EXTINF:0 tvg-id="ComedyCentral.pl" group-title="Channels",COMEDY CENTRAL HD PL
+https://cutt.ly/1EGmB7w
+#EXTINF:0 tvg-id="da_vinci-rus" group-title="Channels",DA VINCI
+https://cutt.ly/PEGmNGa
+#EXTINF:0 tvg-id="ext" group-title="Channels",DISCOVERY  PL
+https://cutt.ly/dEGmMIf
+#EXTINF:0 tvg-id="DiscoveryHistoria.pl" group-title="Channels",DISCOVERY HISTORIA
+https://cutt.ly/AEGm1ty
+#EXTINF:0 tvg-id="DiscoveryScience.pl" group-title="Channels",DISCOVERY SCIENCE HD PL
+https://cutt.ly/PEGm12P
+#EXTINF:0 tvg-id="DiscoveryTurboXtra.pl" group-title="Channels",DTX HD
+https://cutt.ly/YEGm0U1
+#EXTINF:0 tvg-id="ext" group-title="Channels",DTX HEVC
+https://cutt.ly/FEGm2j6
+#EXTINF:0 tvg-id="E!.pl" group-title="Channels",E! ENTERTAINMENT
+https://cutt.ly/6EGm3Bi
+#EXTINF:0 tvg-id="ElevenSports1.pl" group-title="Channels",ELEVEN SPORTS 1
+https://cutt.ly/pEGm5wZ
+#EXTINF:0 tvg-id="ElevenSports2.pl" group-title="Channels",ELEVEN SPORTS 2 HD
+https://cutt.ly/pEGm5lI
+#EXTINF:0 tvg-id="ElevenSports3.pl" group-title="Channels",ELEVEN SPORTS 3 HD
+https://cutt.ly/dEGm6rr
+#EXTINF:0 tvg-id="ElevenSports4.pl" group-title="Channels",ELEVEN SPORTS 4 HD PL
+https://cutt.ly/DEGQqpW
+#EXTINF:0 tvg-id="EskaTV.pl" group-title="Channels",ESKA TV
+https://cutt.ly/KEGQwhZ
+#EXTINF:0 tvg-id="EskaTVExtra.pl" group-title="Channels",ESKA TV EXTRA
+https://cutt.ly/XEGQegP
+#EXTINF:0 tvg-id="Eurosport.pl" group-title="Channels",EUROSPORT 1  PL
+https://cutt.ly/JEGQrek
+#EXTINF:0 tvg-id="ext" group-title="Channels",EUROSPORT 2  PL
+https://cutt.ly/3EGQrS6
+#EXTINF:0 tvg-id="FightBox.pl" group-title="Channels",FIGHTBOX HD
+https://cutt.ly/cEGQtaV
+#EXTINF:0 tvg-id="FightKlub.pl" group-title="Channels",FIGHTKLUB HD
+https://cutt.ly/wEGQtKw
+#EXTINF:0 tvg-id="FilmboxArthouse.pl" group-title="Channels",FILMBOX ARTHOUSE
+https://cutt.ly/iEGQyYC
+#EXTINF:0 tvg-id="FilmboxExtra.pl" group-title="Channels",FILMBOX EXTRA
+https://cutt.ly/UEGQusI
+#EXTINF:0 tvg-id="FilmboxFamily.pl" group-title="Channels",FILMBOX FAMILY
+https://cutt.ly/QEGQuB6
+#EXTINF:0 tvg-id="FilmboxPremium.pl" group-title="Channels",FILMBOX PREMIUM
+https://cutt.ly/CEGQix7
+#EXTINF:0 tvg-id="ext" group-title="Channels",FOKUS TV HD
+https://cutt.ly/8EGQos0
+#EXTINF:0 tvg-id="ext" group-title="Channels",FOOD NETWORK HD PL
+https://cutt.ly/NEGQafO
+#EXTINF:0 tvg-id="ext" group-title="Channels",FOOD NETWORK HEVC
+https://cutt.ly/bEGQa0R
+#EXTINF:0 tvg-id="FoxComedy.pl" group-title="Channels",FOX COMEDY HD PL
+https://cutt.ly/8EGQs3M
+#EXTINF:0 tvg-id="Fox.pl" group-title="Channels",FOX HD PL
+https://cutt.ly/NEGQdTp
+#EXTINF:0 tvg-id="HBO2.pl" group-title="Channels",HBO2
+https://cutt.ly/kEGQfws
+#EXTINF:0 tvg-id="HBO3.pl" group-title="Channels",HBO3
+https://cutt.ly/6EGQf8f
+#EXTINF:0 tvg-id="HBO.pl" group-title="Channels",HBO
+https://cutt.ly/CEGQgXy
+#EXTINF:0 tvg-id="HGTV.pl" group-title="Channels",HGTV HD PL
+https://cutt.ly/3EGQhS8
+#EXTINF:0 tvg-id="ext" group-title="Channels",HISTORY 2 HD PL
+https://cutt.ly/LEGQkAU
+#EXTINF:0 tvg-id="History.pl" group-title="Channels",HISTORY  PL
+https://cutt.ly/cEGQlNy
+#EXTINF:0 tvg-id="InvestigationDiscovery.pl" group-title="Channels",ID HD
+https://cutt.ly/KEGQz7u
+#EXTINF:0 tvg-id="ext" group-title="Channels",KINO POLSKA HD
+https://cutt.ly/MEGQxFV
+#EXTINF:0 tvg-id="KinoPolskaMuzyka.pl" group-title="Channels",KINO POLSKA MUZYKA
+https://cutt.ly/3EGQvoB
+#EXTINF:0 tvg-id="ext" group-title="Channels",KINO TV HD
+https://cutt.ly/LEGQbZB
+#EXTINF:0 tvg-id="KUCHNIA.TV.pl" group-title="Channels",KUCHNIA HD
+https://cutt.ly/1EGQnJz
+#EXTINF:0 tvg-id="ext" group-title="Channels",LIFETIME  PL
+https://cutt.ly/oEGQmZY
+#EXTINF:0 tvg-id="Metro.pl" group-title="Channels",METRO
+https://cutt.ly/uEGQQJi
+#EXTINF:0 tvg-id="MINIMINI.pl" group-title="Channels",MINIMINI HD
+https://cutt.ly/OEGQEQB
+#EXTINF:0 tvg-id="Motowizja.pl" group-title="Channels",MOTOWIZJA HD
+https://cutt.ly/aEGQRp8
+#EXTINF:0 tvg-id="MTV.pl" group-title="Channels",MTV POLSKA
+https://cutt.ly/OEGQR6r
+#EXTINF:0 tvg-id="ext" group-title="Channels",NATIONAL GEO  PL
+https://cutt.ly/qEGQTNl
+#EXTINF:0 tvg-id="NatGeoWild.uk" group-title="Channels",NATIONAL GEO WILD
+https://cutt.ly/vEGQYUu
+#EXTINF:0 tvg-id="NickPolska.pl" group-title="Channels",NICKELODEON PL
+https://cutt.ly/XEGQULu
+#EXTINF:0 tvg-id="NickJr.pl" group-title="Channels",NICK JR PL
+https://cutt.ly/AEGQIDa
+#EXTINF:0 tvg-id="NovelaTV.pl" group-title="Channels",NOVELA TV
+https://cutt.ly/kEGQOG9
+#EXTINF:0 tvg-id="NowaTV.pl" group-title="Channels",NOWA TV
+https://cutt.ly/REGQPUW
+#EXTINF:0 tvg-id="nsport.pl" group-title="Channels",NSPORT HD
+https://cutt.ly/zEGQAYP
+#EXTINF:0 tvg-id="ext" group-title="Channels",NSPORT HEVC
+https://cutt.ly/tEGQSlP
+#EXTINF:0 tvg-id="ext" group-title="Channels",NTL
+https://cutt.ly/cEGQDfc
+#EXTINF:0 tvg-id="NutaTV.pl" group-title="Channels",NUTA TV
+https://cutt.ly/UEGQFon
+#EXTINF:0 tvg-id="Paramount.pl" group-title="Channels",PARAMOUNT CHANNEL HD PL
+https://cutt.ly/ZEGQGe5
+#EXTINF:0 tvg-id="PlaneteHD.ca" group-title="Channels",PLANETE HD
+https://cutt.ly/wEGQHyz
+#EXTINF:0 tvg-id="PoloTV.pl" group-title="Channels",POLO TV
+https://cutt.ly/LEGQJvS
+#EXTINF:0 tvg-id="PowerTV.pl" group-title="Channels",POWER TV
+https://cutt.ly/EEGQKio
+#EXTINF:0 tvg-id="TVPuls2.pl" group-title="Channels",PULS 2
+https://cutt.ly/3EGQLrM
+#EXTINF:0 tvg-id="ext" group-title="Channels",RED CARPET
+https://cutt.ly/3EGQZib
+#EXTINF:0 tvg-id="RomanceTV.pl" group-title="Channels",ROMANCE TV
+https://cutt.ly/9EGQXTw
+#EXTINF:0 tvg-id="ext" group-title="Channels",SCIFI HD
+https://cutt.ly/qEGQCCW
+#EXTINF:0 tvg-id="SportKlubHD.hr" group-title="Channels",SPORTKLUB HD
+https://cutt.ly/mEGQVNG
+#EXTINF:0 tvg-id="StarsTV.pl" group-title="Channels",STARS.TV
+https://cutt.ly/qEGQNue
+#EXTINF:0 tvg-id="StopklatkaTV.pl" group-title="Channels",STOPKLATKA TV
+https://cutt.ly/BEGQMeO
+#EXTINF:0 tvg-id="SundanceChannel.pl" group-title="Channels",SUNDANCE HD
+https://cutt.ly/6EGQM3o
+#EXTINF:0 tvg-id="SuperPolsat.pl" group-title="Channels",SUPER POLSAT HD
+https://cutt.ly/lEGQ1Xh
+#EXTINF:0 tvg-id="Tele5.pl" group-title="Channels",TELE 5
+https://cutt.ly/lEGQ0JG
+#EXTINF:0 tvg-id="ext" group-title="Channels",TELETOON HD PL
+https://cutt.ly/lEGQ2Pi
+#EXTINF:0 tvg-id="TLC.pl" group-title="Channels",TLC HD PL
+https://cutt.ly/nEGQ9m4
+#EXTINF:0 tvg-id="TNTPolska.pl" group-title="Channels",TNT HD PL
+https://cutt.ly/7EGQ3QF
+#EXTINF:0 tvg-id="TO!TV.pl" group-title="Channels",TO!TV
+https://cutt.ly/4EGQ8iy
+#EXTINF:0 tvg-id="Travel.pl" group-title="Channels",TRAVEL CHANNEL HD
+https://cutt.ly/ZEGQv
+#EXTINF:0 tvg-id="ext" group-title="Channels",TRWAM
+https://cutt.ly/BEGQ7aw
+#EXTINF:0 tvg-id="VH1European.pl" group-title="Channels",VH1  PL
+https://cutt.ly/bEGQ7KY
+#EXTINF:0 tvg-id="ext" group-title="Channels",VOD 205
+https://cutt.ly/7EGQ5YG
+#EXTINF:0 tvg-id="ext" group-title="Channels",VOD 206
+https://cutt.ly/bEGQ6pR
+#EXTINF:0 tvg-id="ext" group-title="Channels",VOD 207
+https://cutt.ly/bEGWqnA
+#EXTINF:0 tvg-id="ext" group-title="Channels",VOD 208
+https://cutt.ly/8EGWwRd
+#EXTINF:0 tvg-id="VoxMusicTV.pl" group-title="Channels",VOX MUSIC TV
+https://cutt.ly/lEGWeEd
+#EXTINF:0 tvg-id="WP.pl" group-title="Channels",WP
+https://cutt.ly/SEGWrbM
+#EXTINF:0 tvg-id="ZoomTV.pl" group-title="Channels",ZOOM TV
+https://cutt.ly/1EGWtlb
+#EXTINF:0 tvg-id="TTV.PL" group-title="Channels",TTV
+https://cutt.ly/MEGWyby
+#EXTINF:0 tvg-id="TV4.pl" group-title="Channels",TV4
+https://cutt.ly/3EGWueB
+#EXTINF:0 tvg-id="TVN.pl" group-title="Channels",TVN
+https://cutt.ly/EEGWoLD
+#EXTINF:0 tvg-id="TVN7.pl" group-title="Channels",TVN 7
+https://cutt.ly/pEGWdH8
+#EXTINF:0 tvg-id="TVN24.pl" group-title="Channels",TVN 24
+https://cutt.ly/4EGWgcm
+#EXTINF:0 tvg-id="TVNCNBCBiznes.pl" group-title="Channels",TVN24 BIS
+https://cutt.ly/kEGWhu1
+#EXTINF:0 tvg-id="TVNFabula.pl" group-title="Channels",TVN FABULA HD
+https://cutt.ly/EEGWhBF
+#EXTINF:0 tvg-id="TVNStyle.pl" group-title="Channels",TVN STYLE
+https://cutt.ly/HEGWjnZ
+#EXTINF:0 tvg-id="TVNTurbo.pl" group-title="Channels",TVN TURBO
+https://cutt.ly/AEGWka2
+#EXTINF:0 tvg-id="TVPolonia.pl" group-title="Channels",TVP POLONIA
+https://cutt.ly/GEGWxDS
+#EXTINF:0 tvg-id="VividRed.ero" group-title="Channels",VIVID RED
+https://cutt.ly/FEGR09j
+#EXTINF:0 tvg-id="ext" group-title="Channels",EVIL ENGEL TV
+https://cutt.ly/OEGR9s2
+#EXTINF:0 tvg-id="ext" group-title="Channels",BABES TV
+https://cutt.ly/hEGR3wA
+#EXTINF:0 tvg-id="PinkErotic.rs" group-title="Channels",Pink Erotic 1
+https://cutt.ly/WEGR38J
+#EXTINF:0 tvg-id="PinkErotic2.rs" group-title="Channels",Pink Erotic 2
+https://cutt.ly/JEGR82L
+#EXTINF:0 tvg-id="PinkErotic3.rs" group-title="Channels",Pink Erotic 3
+https://cutt.ly/kEGR7cy
+#EXTINF:0 tvg-id="PinkErotic4.rs" group-title="Channels",Pink Erotic 4
+https://cutt.ly/dEGR5n6
+#EXTINF:0 tvg-id="PinkErotic5.rs" group-title="Channels",Pink Erotic 5
+https://cutt.ly/uEGR6Pm
+#EXTINF:0 tvg-id="PinkErotic6.rs" group-title="Channels",Pink Erotic 6
+https://cutt.ly/TEGTqAQ
+#EXTINF:0 tvg-id="PinkErotic7.rs" group-title="Channels",Pink Erotic 7
+https://cutt.ly/VEGTwXt
+#EXTINF:0 tvg-id="PinkErotic8.rs" group-title="Channels",Pink Erotic 8
+https://cutt.ly/ZEGTrP2
